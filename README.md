@@ -1,1 +1,2 @@
+conflict branch
 # gitbranching-practice
