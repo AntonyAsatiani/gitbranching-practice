@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 master conflict
-# gitbranching-practice
+=======
+
